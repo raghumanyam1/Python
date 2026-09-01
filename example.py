@@ -4,6 +4,12 @@ print(5/5)
 import sys
 print(sys.version)
 
+print(2+4)
+print(2-4)
+print(2*4)
+print(10/2)
+print(10%2)
+
 if 5>2:
 
  print("is greater ")
@@ -22,6 +28,7 @@ y = int(3.4)
 z = float(3.6)
 
 print(x)
+print(type(x))
 print(y)
 print(z)
 
